@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ThesisProject</string>
+    <string name="hotspotInfo">SSID: %s Password: %s\nIP: %s</string>
+    <string name="localInfo">Local WiFi host\nInternal IP: %s\nExternal IP: %s</string>
+    <string name="p2pInfo">P2P Host IP: %s</string>
+    <string name="closeHotspot">Close\nHotspot/Server</string>
+    <string name="startHotspot">Host Server</string>
+    <string name="connect">Connect to\n Server</string>
+    <string name="disconnect">Disconnect\nfrom Server</string>
+    <string name="udpOff">UDP Off</string>
+    <string name="udpOn">UDP On</string>
+    <string name="connectedTo">Connected to: %s</string>
+    <string name="p2p">WiFi Direct</string>
+    <string name="closeP2p">Close P2P</string>
+</resources>
